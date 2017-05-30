@@ -22,5 +22,5 @@ This project is used demonstrate my Unreal Engine Inventory Plugin. To view a co
 For more details on how to use the features of this plugin, please check out the following blog post.
 
 ## Credits
-Code by Lukas Giesler
+Code by Lukas Giesler  
 Sample Item Models and Textures kindly provided by Dennis Giesler
