@@ -1,5 +1,5 @@
 # InventoryProject
-This project is used demonstrate my Unreal Engine Inventory Plugin. To view a complete rundown of all included features check out this (blog post)[http://lukasgiesler.com/unreal-engine-inventory-plugin/] on my website.
+This project is used demonstrate my Unreal Engine Inventory Plugin. To view a complete rundown of all included features check out this [blog post](http://lukasgiesler.com/unreal-engine-inventory-plugin/) on my website.
 
 ## Example Project Setup
 1. Right click InventoryProject.uproject file in your file explorer and generate Visual Studio Files
@@ -19,7 +19,7 @@ This project is used demonstrate my Unreal Engine Inventory Plugin. To view a co
 9. Restart Unreal Engine
 10. Add the inventory component to any Character
 
-For more details on how to use the features of this plugin, please check out the following (blog post)[http://lukasgiesler.com/unreal-engine-inventory-plugin/].
+For more details on how to use the features of this plugin, please check out the following [blog post](http://lukasgiesler.com/unreal-engine-inventory-plugin/).
 
 ## Credits
 Code by Lukas Giesler  
